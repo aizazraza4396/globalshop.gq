@@ -1,0 +1,2 @@
+# globalshop.gq
+globalshop
